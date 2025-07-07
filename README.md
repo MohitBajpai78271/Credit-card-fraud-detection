@@ -12,7 +12,7 @@ This project is a machine learning pipeline to detect credit card fraud using a 
 
 We use the well-known [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), containing anonymized features `V1`–`V28` from PCA, as well as `Time` and `Amount`.
 
----
+--- 
 
 ## ⚙️ Features
 
@@ -40,7 +40,7 @@ We use the well-known [Kaggle Credit Card Fraud Detection Dataset](https://www.k
 ![Full App Screenshot](https://github.com/user-attachments/assets/16bc9b7c-1eef-41a5-940d-88bc7dade9fa)
 
 ### 🔮 Prediction Output
-![Prediction Output](screenshots/prediction_view.png)
+![Prediction Output](https://github.com/user-attachments/assets/883114b2-4097-4f28-920e-47fe5b80318f)
 
 > Make sure to place your screenshots in a `screenshots/` folder in your repo.
 
@@ -54,7 +54,8 @@ The best-performing model (by F1-score) is automatically chosen for predicting t
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
+
