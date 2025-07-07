@@ -37,7 +37,7 @@ We use the well-known [Kaggle Credit Card Fraud Detection Dataset](https://www.k
 ## 🖼️ Screenshots
 
 ### 🌐 Full App View
-![Full App Screenshot](<img width="1440" alt="Screenshot 2025-07-07 at 2 49 34 PM" src="https://github.com/user-attachments/assets/16bc9b7c-1eef-41a5-940d-88bc7dade9fa" />)
+![Full App Screenshot](https://github.com/user-attachments/assets/16bc9b7c-1eef-41a5-940d-88bc7dade9fa)
 
 ### 🔮 Prediction Output
 ![Prediction Output](screenshots/prediction_view.png)
