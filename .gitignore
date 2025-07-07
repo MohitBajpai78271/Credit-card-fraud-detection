@@ -1,0 +1,10 @@
+# Ignore environment and large files
+.venv/
+__pycache__/
+*.pyc
+creditcard.csv
+*.dylib
+*.so
+*.pkl
+*.h5
+.ipynb_checkpoints/
